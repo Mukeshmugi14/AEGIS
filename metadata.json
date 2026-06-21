@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Fitness",
+  "description": "Premium fitness coaching website with luxury dark theme and 3D interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
